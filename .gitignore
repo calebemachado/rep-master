@@ -33,3 +33,8 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+*.env*
+
+# Environment variables
+!.env.template
